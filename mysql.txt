@@ -1,0 +1,8 @@
+create table users
+       ( userid varchar(20),
+         password varchar(20),
+	 fname varchar(20),
+	 lname varchar(20),
+	 email varchar(20)
+	);
+
